@@ -15,8 +15,14 @@ p {
     color: blue;
 }
 
-hr2 {
+h2 {
     font-size: x-large;
     color: brown;
     text-align: center;
+}
+
+h3 {
+    font-size: large;
+    text-align: end;
+    color: blue;
 }
